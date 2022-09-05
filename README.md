@@ -15,7 +15,12 @@ In this codelab, working from this starter app, you:
 * Use channels and importance for the app notifications. 
 * Customize and style the notifications.
 
-
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/mohamedgomaa23722/NotifiactionPracticeRepo.git
+git push -u origin main
 Pre-requisites
 --------------
 
